@@ -1,5 +1,4 @@
 function getBasketContent(nbrfruit) {
-    // Tableau représentant les fruits en stock
     let fruits = [
         "strawberry",
         "strawberry",
